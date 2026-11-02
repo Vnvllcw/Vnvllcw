@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Hi, I'm V
+🧬 **Biotechnology Student** | NKU & University of Arizona Dual Degree Program  
+🔬 Passional about bringing **AI, Data Science, and Bio-analytics** into biological research.
+---
+### 🌿 About Me
+* 🎓 Studying Biotechnology at Kozybayev University & University of Arizona
+* 🚀 Finalist of Stage 2 in the **AI Sana National Program** (Interdisciplinary AI + Bio project)
+* 💼 Practical experience in industrial assay & analytical laboratory (worked with acids, alkalis & analytical equipment)
+* 🌐 English Level: **B2 (CEPT)**
 
-<!--
-**Vnvllcw/Vnvllcw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+* **Languages & Scripting:** Bash / Command Line
+* **AI & Data:** AI Basics (Huawei AI Certified), Command Line (Codecademy Certified)
+* **My Domain:** Biotechnology, Bio-analytics, Laboratory Safety & Operations
+---
+### 🔗 Connect with me
+💼 LinkedIn:
