@@ -1,4 +1,5 @@
 👋 Hi, I'm Vlad
+
 🧬 **Biotechnology Student** | NKU & University of Arizona Dual Degree Program  
 🔬 Passional about bringing **AI, Data Science, and Bio-analytics** into biological research.
 ---
