@@ -3,7 +3,7 @@
 🧬 **Biotechnology Student** | NKU & University of Arizona Dual Degree Program  
 🔬 Passional about bringing **AI, Data Science, and Bio-analytics** into biological research.
 ---
-### 🌿 About Me
+### 🌿 A little about Me
 * 🎓 Studying Biotechnology at Kozybayev University & University of Arizona
 * 🚀 Finalist of Stage 2 in the **AI Sana National Program** (Interdisciplinary AI + Bio project)
 * 💼 Practical experience in industrial assay & analytical laboratory (worked with acids, alkalis & analytical equipment)
