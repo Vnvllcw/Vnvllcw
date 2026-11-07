@@ -17,4 +17,4 @@
 * **My Domain:** Biotechnology, Bio-analytics, Laboratory Safety & Operations
 ---
 ### 🔗 Connect with me
-💼 LinkedIn: https://www.linkedin.com/in/nvv3/
+💼 LinkedIn: www.linkedin.com/in/nvv3
