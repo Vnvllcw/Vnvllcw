@@ -1,20 +1,17 @@
-# **Hi, I'm Vlad**
+### Hi, I'm Vlad
 
-🧬 **Biotechnology Student** | NKU & University of Arizona Dual Degree Program  
-🔬 Passional about bringing **AI, Data Science, and Bio-analytics** into biological research.
----
-### 🌿 A little about Me
-* 🎓 Studying Biotechnology at Kozybayev University & University of Arizona
-* 🚀 Finalist of Stage 2 in the **AI Sana National Program** (Interdisciplinary AI + Bio project)
-* 💼 Practical experience in industrial assay & analytical laboratory (worked with acids, alkalis & analytical equipment)
-* 🌐 English Level: **B2 (CEPT)**
+Second-year Biotechnology undergraduate in the dual-degree program at **Kozybayev University** and the **University of Arizona**. Focused on wet-lab analytical chemistry and computational data analysis in life sciences.
 
----
+#### Background & Lab Work
+- **Analytical & Wet-Lab Experience:** Completed an industrial laboratory internship (quantitative/qualitative ore impurity analysis, titration, spectrophotometry, gravimetry, and GLP safety compliance).
+- **Interdisciplinary Research:** Developed a Stage 2 project within the **AI-SANA** national program combining biotechnology, information systems, and educational psychology.
+- **Community:** Active member of the Association of Biotechnology Enthusiasts (**ABTEN**) and coordinator of the university English Speaking Club.
 
-### 🛠️ Tech Stack & Tools
-* **Languages & Scripting:** Bash / Command Line
-* **AI & Data:** AI Basics (Huawei AI Certified), Command Line (Codecademy Certified)
-* **My Domain:** Biotechnology, Bio-analytics, Laboratory Safety & Operations
----
-### 🔗 Connect with me
-LinkedIn: www.linkedin.com/in/nvv3
+#### Tools & Methods
+- **Laboratory:** Acid-base & redox titration, solution synthesis, spectrophotometry, pH-metry, GLP documentation.
+- **Computational:** Python (data structures & analysis), Linux / Bash command line, Git.
+- **Languages:** Russian (native), English (B2 — academic track), Kazakh (conversational).
+
+#### Links
+- LinkedIn: www.linkedin.com/in/nvv3
+- Email: dudbsuhd@mail.ru
